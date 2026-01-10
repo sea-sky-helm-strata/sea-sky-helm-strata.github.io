@@ -1,8 +1,7 @@
 # Schedule of Standard Bylaws
 
-## Table of contents
-
-{: .toc }
+* TOC
+{:toc}
 
 ## Division 1 — Duties of Owners, Tenants, Occupants and Visitors
 
