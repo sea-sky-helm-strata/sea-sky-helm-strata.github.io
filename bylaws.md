@@ -17,18 +17,18 @@ An owner must pay strata fees on or before the first day of the month to which t
 ### 3. Use of property
 
 1. An owner, tenant, occupant or visitor must not use a strata lot, the common property or common assets in a way that
-   - (a) causes a nuisance or hazard to another person,
-   - (b) causes unreasonable noise,
-   - (c) unreasonably interferes with the rights of other persons to use and enjoy the common property, common assets or another strata lot,
-   - (d) is illegal, or
-   - (e) is contrary to a purpose for which the strata lot or common property is intended as shown expressly or by necessary implication on or by the strata plan.
+   * (a) causes a nuisance or hazard to another person,
+   * (b) causes unreasonable noise,
+   * (c) unreasonably interferes with the rights of other persons to use and enjoy the common property, common assets or another strata lot,
+   * (d) is illegal, or
+   * (e) is contrary to a purpose for which the strata lot or common property is intended as shown expressly or by necessary implication on or by the strata plan.
 2. An owner, tenant, occupant or visitor must not cause damage, other than reasonable wear and tear, to the common property, common assets or those parts of a strata lot which the strata corporation must repair and maintain under these bylaws or insure under section 149 of the Act.
 3. An owner, tenant, occupant or visitor must ensure that all animals are leashed or otherwise secured when on the common property or on land that is a common asset.
 4. An owner, tenant or occupant must not keep any pets on a strata lot other than one or more of the following:
-   - (a) a reasonable number of fish or other small aquarium animals;
-   - (b) a reasonable number of small caged mammals;
-   - (c) up to 2 caged birds;
-   - (d) one dog or one cat.
+   * (a) a reasonable number of fish or other small aquarium animals;
+   * (b) a reasonable number of small caged mammals;
+   * (c) up to 2 caged birds;
+   * (d) one dog or one cat.
 
 ### 4. Inform strata corporation
 
@@ -38,13 +38,13 @@ An owner must pay strata fees on or before the first day of the month to which t
 ### 5. Obtain approval before altering a strata lot
 
 1. An owner must obtain the written approval of the strata corporation before making an alteration to a strata lot that involves any of the following:
-   - (a) the structure of a building;
-   - (b) the exterior of a building;
-   - (c) chimneys, stairs, balconies or other things attached to the exterior of a building;
-   - (d) doors, windows or skylights on the exterior of a building, or that front on the common property;
-   - (e) fences, railings or similar structures that enclose a patio, balcony or yard;
-   - (f) common property located within the boundaries of a strata lot;
-   - (g) those parts of the strata lot which the strata corporation must insure under section 149 of the Act.
+   * (a) the structure of a building;
+   * (b) the exterior of a building;
+   * (c) chimneys, stairs, balconies or other things attached to the exterior of a building;
+   * (d) doors, windows or skylights on the exterior of a building, or that front on the common property;
+   * (e) fences, railings or similar structures that enclose a patio, balcony or yard;
+   * (f) common property located within the boundaries of a strata lot;
+   * (g) those parts of the strata lot which the strata corporation must insure under section 149 of the Act.
 2. The strata corporation must not unreasonably withhold its approval under subsection (1), but may require as a condition of its approval that the owner agree, in writing, to take responsibility for any expenses relating to the alteration.
 3. This section does not apply to a strata lot in a bare land strata plan.
 
@@ -56,8 +56,8 @@ An owner must pay strata fees on or before the first day of the month to which t
 ### 7. Permit entry to strata lot
 
 1. An owner, tenant, occupant or visitor must allow a person authorized by the strata corporation to enter the strata lot
-   - (a) in an emergency, without notice, to ensure safety or prevent significant loss or damage, and
-   - (b) at a reasonable time, on 48 hours' written notice, to inspect, repair or maintain common property, common assets and any portions of a strata lot that are the responsibility of the strata corporation to repair and maintain under these bylaws or insure under section 149 of the Act.
+   * (a) in an emergency, without notice, to ensure safety or prevent significant loss or damage, and
+   * (b) at a reasonable time, on 48 hours' written notice, to inspect, repair or maintain common property, common assets and any portions of a strata lot that are the responsibility of the strata corporation to repair and maintain under these bylaws or insure under section 149 of the Act.
 2. The notice referred to in subsection (1) (b) must include the date and approximate time of entry, and the reason for entry.
 
 ## Division 2 — Powers and Duties of Strata Corporation
@@ -66,22 +66,22 @@ An owner must pay strata fees on or before the first day of the month to which t
 
 The strata corporation must repair and maintain all of the following:
 
-- (a) common assets of the strata corporation;
-- (b) common property that has not been designated as limited common property;
-- (c) limited common property, but the duty to repair and maintain it is restricted to
-  - (i) repair and maintenance that in the ordinary course of events occurs less often than once a year, and
-  - (ii) the following, no matter how often the repair or maintenance ordinarily occurs:
-    - (A) the structure of a building;
-    - (B) the exterior of a building;
-    - (C) chimneys, stairs, balconies and other things attached to the exterior of a building;
-    - (D) doors, windows and skylights on the exterior of a building or that front on the common property;
-    - (E) fences, railings and similar structures that enclose patios, balconies and yards;
-- (d) a strata lot in a strata plan that is not a bare land strata plan, but the duty to repair and maintain it is restricted to
-  - (i) the structure of a building,
-  - (ii) the exterior of a building,
-  - (iii) chimneys, stairs, balconies and other things attached to the exterior of a building,
-  - (iv) doors, windows and skylights on the exterior of a building or that front on the common property, and
-  - (v) fences, railings and similar structures that enclose patios, balconies and yards.
+* (a) common assets of the strata corporation;
+* (b) common property that has not been designated as limited common property;
+* (c) limited common property, but the duty to repair and maintain it is restricted to
+  * (i) repair and maintenance that in the ordinary course of events occurs less often than once a year, and
+  * (ii) the following, no matter how often the repair or maintenance ordinarily occurs:
+    * (A) the structure of a building;
+    * (B) the exterior of a building;
+    * (C) chimneys, stairs, balconies and other things attached to the exterior of a building;
+    * (D) doors, windows and skylights on the exterior of a building or that front on the common property;
+    * (E) fences, railings and similar structures that enclose patios, balconies and yards;
+* (d) a strata lot in a strata plan that is not a bare land strata plan, but the duty to repair and maintain it is restricted to
+  * (i) the structure of a building,
+  * (ii) the exterior of a building,
+  * (iii) chimneys, stairs, balconies and other things attached to the exterior of a building,
+  * (iv) doors, windows and skylights on the exterior of a building or that front on the common property, and
+  * (v) fences, railings and similar structures that enclose patios, balconies and yards.
 
 ## Division 3 — Council
 
@@ -113,8 +113,8 @@ The strata corporation must repair and maintain all of the following:
 1. At the first meeting of the council held after each annual general meeting of the strata corporation, the council must elect, from among its members, a president, a vice president, a secretary and a treasurer.
 2. A person may hold more than one office at a time, other than the offices of president and vice president.
 3. The vice president has the powers and duties of the president
-   - (a) while the president is absent or is unwilling or unable to act, or
-   - (b) for the remainder of the president's term if the president ceases to hold office.
+   * (a) while the president is absent or is unwilling or unable to act, or
+   * (b) for the remainder of the president's term if the president ceases to hold office.
 4. If an officer other than the president is unwilling or unable to act for a period of 2 or more months, the council members may appoint a replacement officer from among themselves for the remainder of the term.
 
 ### 14. Calling council meetings
@@ -122,10 +122,10 @@ The strata corporation must repair and maintain all of the following:
 1. Any council member may call a council meeting by giving the other council members at least one week's notice of the meeting, specifying the reason for calling the meeting.
 2. The notice does not have to be in writing.
 3. A council meeting may be held on less than one week's notice if
-   - (a) all council members consent in advance of the meeting, or
-   - (b) the meeting is required to deal with an emergency situation, and all council members either
-     - (i) consent in advance of the meeting, or
-     - (ii) are unavailable to provide consent after reasonable attempts to contact them.
+   * (a) all council members consent in advance of the meeting, or
+   * (b) the meeting is required to deal with an emergency situation, and all council members either
+     * (i) consent in advance of the meeting, or
+     * (ii) are unavailable to provide consent after reasonable attempts to contact them.
 4. The council must inform owners about a council meeting as soon as feasible after the meeting has been called.
 
 ### 15. Repealed
@@ -135,10 +135,10 @@ The strata corporation must repair and maintain all of the following:
 ### 16. Quorum of council
 
 1. A quorum of the council is
-   - (a) 1, if the council consists of one member,
-   - (b) 2, if the council consists of 2, 3 or 4 members,
-   - (c) 3, if the council consists of 5 or 6 members, and
-   - (d) 4, if the council consists of 7 members.
+   * (a) 1, if the council consists of one member,
+   * (b) 2, if the council consists of 2, 3 or 4 members,
+   * (c) 3, if the council consists of 5 or 6 members, and
+   * (d) 4, if the council consists of 7 members.
 2. Council members must be present in person at the council meeting to be counted in establishing quorum.
 
 ### 17. Council meetings
@@ -147,9 +147,9 @@ The strata corporation must repair and maintain all of the following:
 2. If a council meeting is held by electronic means, council members are deemed to be present in person.
 3. Owners may attend council meetings as observers.
 4. Despite subsection (3), no observers may attend those portions of council meetings that deal with any of the following:
-   - (a) bylaw contravention hearings under section 135 of the Act;
-   - (b) [Repealed 2022-41-27.]
-   - (c) any other matters if the presence of observers would, in the council's opinion, unreasonably interfere with an individual's privacy.
+   * (a) bylaw contravention hearings under section 135 of the Act;
+   * (b) [Repealed 2022-41-27.]
+   * (c) any other matters if the presence of observers would, in the council's opinion, unreasonably interfere with an individual's privacy.
 
 ### 18. Voting at council meetings
 
@@ -165,15 +165,15 @@ The council must inform owners of the minutes of all council meetings within 2 w
 
 1. Subject to subsections (2) to (4), the council may delegate some or all of its powers and duties to one or more council members or persons who are not members of the council, and may revoke the delegation.
 2. The council may delegate its spending powers or duties, but only by a resolution that
-   - (a) delegates the authority to make an expenditure of a specific amount for a specific purpose, or
-   - (b) delegates the general authority to make expenditures in accordance with subsection (3).
+   * (a) delegates the authority to make an expenditure of a specific amount for a specific purpose, or
+   * (b) delegates the general authority to make expenditures in accordance with subsection (3).
 3. A delegation of a general authority to make expenditures must
-   - (a) set a maximum amount that may be spent, and
-   - (b) indicate the purposes for which, or the conditions under which, the money may be spent.
+   * (a) set a maximum amount that may be spent, and
+   * (b) indicate the purposes for which, or the conditions under which, the money may be spent.
 4. The council may not delegate its powers to determine, based on the facts of a particular case,
-   - (a) whether a person has contravened a bylaw or rule,
-   - (b) whether a person should be fined, and the amount of the fine, or
-   - (c) whether a person should be denied access to a recreational facility.
+   * (a) whether a person has contravened a bylaw or rule,
+   * (b) whether a person should be fined, and the amount of the fine, or
+   * (c) whether a person should be denied access to a recreational facility.
 
 ### 21. Spending restrictions
 
@@ -191,8 +191,8 @@ The council must inform owners of the minutes of all council meetings within 2 w
 
 The strata corporation may fine an owner or tenant a maximum of
 
-- (a) $50 for each contravention of a bylaw, and
-- (b) $10 for each contravention of a rule.
+* (a) $50 for each contravention of a bylaw, and
+* (b) $10 for each contravention of a rule.
 
 ### 24. Continuing contravention
 
@@ -226,31 +226,31 @@ If an activity or lack of activity that constitutes a contravention of a bylaw o
 
 The order of business at annual and special general meetings is as follows:
 
-- (a) certify proxies and corporate representatives and issue voting cards;
-- (b) determine that there is a quorum;
-- (c) elect a person to chair the meeting, if necessary;
-- (d) present to the meeting proof of notice of meeting or waiver of notice;
-- (e) approve the agenda;
-- (f) approve minutes from the last annual or special general meeting;
-- (g) deal with unfinished business;
-- (h) receive reports of council activities and decisions since the previous annual general meeting, including reports of committees, if the meeting is an annual general meeting;
-- (i) ratify any new rules made by the strata corporation under section 125 of the Act;
-- (j) report on insurance coverage in accordance with section 154 of the Act, if the meeting is an annual general meeting;
-- (k) approve the budget for the coming year in accordance with section 103 of the Act, if the meeting is an annual general meeting;
-- (l) deal with new business, including any matters about which notice has been given under section 45 of the Act;
-- (m) elect a council, if the meeting is an annual general meeting;
-- (n) terminate the meeting.
+* (a) certify proxies and corporate representatives and issue voting cards;
+* (b) determine that there is a quorum;
+* (c) elect a person to chair the meeting, if necessary;
+* (d) present to the meeting proof of notice of meeting or waiver of notice;
+* (e) approve the agenda;
+* (f) approve minutes from the last annual or special general meeting;
+* (g) deal with unfinished business;
+* (h) receive reports of council activities and decisions since the previous annual general meeting, including reports of committees, if the meeting is an annual general meeting;
+* (i) ratify any new rules made by the strata corporation under section 125 of the Act;
+* (j) report on insurance coverage in accordance with section 154 of the Act, if the meeting is an annual general meeting;
+* (k) approve the budget for the coming year in accordance with section 103 of the Act, if the meeting is an annual general meeting;
+* (l) deal with new business, including any matters about which notice has been given under section 45 of the Act;
+* (m) elect a council, if the meeting is an annual general meeting;
+* (n) terminate the meeting.
 
 ## Division 6 — Voluntary Dispute Resolution
 
 ### 29. Voluntary dispute resolution
 
 1. A dispute among owners, tenants, the strata corporation or any combination of them may be referred to a dispute resolution committee by a party to the dispute if
-   - (a) all the parties to the dispute consent, and
-   - (b) the dispute involves the Act, the regulations, the bylaws or the rules.
+   * (a) all the parties to the dispute consent, and
+   * (b) the dispute involves the Act, the regulations, the bylaws or the rules.
 2. A dispute resolution committee consists of
-   - (a) one owner or tenant of the strata corporation nominated by each of the disputing parties and one owner or tenant chosen to chair the committee by the persons nominated by the disputing parties, or
-   - (b) any number of persons consented to, or chosen by a method that is consented to, by all the disputing parties.
+   * (a) one owner or tenant of the strata corporation nominated by each of the disputing parties and one owner or tenant chosen to chair the committee by the persons nominated by the disputing parties, or
+   * (b) any number of persons consented to, or chosen by a method that is consented to, by all the disputing parties.
 3. The dispute resolution committee must attempt to help the disputing parties to voluntarily end the dispute.
 
 ## Division 7 — Marketing Activities by Owner Developer
