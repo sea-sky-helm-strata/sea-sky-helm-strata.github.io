@@ -1,6 +1,8 @@
 # Schedule of Standard Bylaws[^1]
 
-- TOC {:toc}
+<!-- prettier-ignore -->
+- TOC
+{:toc}
 
 ## Division 1 — Duties of Owners, Tenants, Occupants and Visitors
 
@@ -29,6 +31,53 @@
 2. An owner who has the use of limited common property must repair and maintain
    it, except for repair and maintenance that is the responsibility of the
    strata corporation under these bylaws.
+3. (not defined)[^3]
+4. Owner Insurance and Indemnity for Damage to Common Property and Strata
+   Lots[^3]
+   1. It is recommended that each owner obtain and maintain liability and
+      property insurance on his or her strata lots sufficient to cover the cost
+      of any insurance deductibles or uninsured repair costs charged to the
+      owner by the strata corporation pursuant to this bylaw.
+   2. An owner shall indemnify and save harmless the strata corporation from the
+      expense of any maintenance, repair or replacement rendered necessary to
+      the common property, limited common property, common assets or to any
+      strata lot arising from any incident occurring or originating in the
+      owner’s strata lot, whether such incident is caused or contributed to by
+      the owner's act, omission, negligence or carelessness or by that of an
+      owner’s visitors, occupants, guests, employees, agents, tenants, but only
+      to the extent that such expense is not reimbursed from the proceeds
+      received by operation of any insurance policy. In such circumstances, any
+      insurance deductible paid or payable by the strata corporation shall be
+      considered an expense not covered by the proceeds received by the strata
+      corporation as insurance coverage and will be charged to the owner.
+      Without limiting the generality of the foregoing, an owner is strictly
+      liable to the strata corporation and to other owners and occupants for any
+      damage to common property, limited common property, and common assets or
+      to any strata lot as a result of:
+      - (i) any of the following items located in the owner’s strata lot, but
+        not limited to:
+        - a) Appliances;
+        - b) Garburator;
+        - c) Hot water tank;
+        - d) Washing and drying machines;
+        - e) HVAC system;
+        - f) Heat pump system or any related component;
+        - g) toilets, sinks, bathtubs, fire sprinklers and, where located wholly
+          within the strata lot and accessible to the owner, plumbing pipes,
+          fixtures and hoses;
+        - h) Anything introduced into the strata lot by the owner or occupant;
+      - (ii) any alterations or additions to the strata lot, the limited common
+        property or the common property made by the owner or by a prior owner(s)
+        of the strata lot;
+      - (iii) damage arising from a blocked drain on the deck, balcony or patio
+        designated as limited common property for the owner’s strata lot;
+      - (iv) any pets residing in or visiting at the owner’s strata lot; and
+
+For the purposes of this bylaw 2.4, any insurance deductibles or uninsured
+repair costs charged to an owner shall be added to and become part of the
+assessment of that owner for the month next following the date on which the
+expense was incurred and shall become due and payable on the date of payment of
+the monthly assessment.
 
 ### 3. Use of property
 
@@ -201,14 +250,14 @@ The strata corporation must repair and maintain all of the following:
     - (E) fences, railings and similar structures that enclose patios, balconies
       and yards;
 
-  1.  Notwithstanding paragraph (c) above, or any other bylaw, the strata
-      corporation shall not be responsible for any repair or maintenance in
-      relation to any heating, ventilation or air conditioning or climate
-      control equipment, machinery, pipes, venting and fittings located upon
-      limited common property, regardless of the degree of its annexation or
-      affixation to limited common property, and the owner of the strata lot
-      that has use of such limited common property shall be solely responsible
-      for the costs of repairing and maintaining same.[^2]
+  1. Notwithstanding paragraph (c) above, or any other bylaw, the strata
+     corporation shall not be responsible for any repair or maintenance in
+     relation to any heating, ventilation or air conditioning or climate control
+     equipment, machinery, pipes, venting and fittings located upon limited
+     common property, regardless of the degree of its annexation or affixation
+     to limited common property, and the owner of the strata lot that has use of
+     such limited common property shall be solely responsible for the costs of
+     repairing and maintaining same.[^2]
 
 - (d) a strata lot in a strata plan that is not a bare land strata plan, but the
   duty to repair and maintain it is restricted to
@@ -792,9 +841,184 @@ strata lots, whichever is shorter.
    hardship, health or family support needs on such terms and conditions as the
    strata council may impose from time to time.
 
+### 48. Parking & Visitor Parking[^3]
+
+1. A resident must not use any area of the common property or limited common
+   property designed for parking for the storage of personal items.
+2. A resident or visitor must not permit a vehicle to be parked or left
+   unattended in a manner that interferes with parking stalls, access lanes,
+   strata roadways or no parking zones.
+3. The strata council may designate common property for the exclusive use of
+   guests of residents.
+
+#### Visitor Parking
+
+4. Visitor Parking stalls shall only be occupied by automobiles or motorcycles
+   which must be legally insured to operate on a provincial roadway.
+5. Only automobiles and motorcycles are permitted to occupy visitor parking
+   stalls. Trailers, recreational vehicles, and other non-automobile conveyances
+   are prohibited.
+6. Vehicles in a visitor parking stall must display a valid Visitor Parking Pass
+   issued by the Strata Council.
+7. A vehicle must not occupy a visitor stall longer than a period of 72 hours.
+
+#### Parking Permits
+
+8. Visitor Parking Passes are the exclusive property of the Strata Corporation.
+   Replacement fees are solely administrative charges for the issuance of a new
+   pass.
+9. A strata lot is entitled to posses one Visitor Parking Pass at any given
+   time.
+10. In the event of loss, an owner may submit a written application to the
+    strata council for a replacement parking pass, subject to a non-refundable
+    replacement charge of $75.00 against the Strata Lot. However, the Strata
+    Council reserves the right to withhold the issuance of a new pass in cases
+    of fraud or repeated blatant violations of the bylaws.
+11. In the event a previously replaced pass is recovered, the most recently
+    issued pass must be returned to the strata corporation.
+12. Should it be discovered that a strata lot is in possession of or utilizing
+    multiple passes concurrently, the strata lot may be subject to weekly fines
+    until the surplus pass is relinquished.
+
+#### Vehicle Removal
+
+13. Any conveyance, vehicle, automobile or motorcycle contravening parking rules
+    and or bylaws may be subject to removal by a towing company authorized by
+    the strata council, and the vehicle owner shall be responsible for any
+    associated towing charges.
+14. The Strata Corporation may direct an authorized towing company to remove
+    vehicles contravening sub-sections 2, 4, 5, 6, & 7
+15. The Strata Corporation, Strata Council members, agents, and representatives
+    shall not be held liable for any damages or liabilities resulting from the
+    towing or removal of vehicles, automobiles, items, or personal property in
+    accordance with the Strata Bylaws and Rules.
+
+### 49. Garbage and Recycling Disposal[^3]
+
+1. Only owners, tenants, occupants, and their housekeepers may use the
+   residential common garbage and recycling for regular household waste and in
+   accordance with posted signage. No other person may use the common garbage
+   and recycling, including contractors acting on an owner’s behalf.
+2. It is prohibited for any person to dispose of anything other than regular
+   household waste in the residential common garbage and recycling. Regular
+   household waste excludes the following, but not limited to, excessive waste
+   from move-ins and move-outs, construction materials, demolition waste, dry
+   wall, furniture, mattresses, paint cans, and used carpets.
+3. Cardboard boxes must be broken down prior to recycling.
+4. Waste and recycling must be properly sorted and placed in the appropriate
+   designated bins.
+5. In addition to fines, any owner, tenant, or occupant that causes or permits
+   the garbage and recycling to be used contrary to these bylaws shall be
+   charged the costs incurred by the Strata Corporation to rectify the misuse.
+
+### 50. Privacy and Security[^3]
+
+1. For the purposes of the Act, other enactments, and security reasons, the
+   Strata Corporation is required to obtain and retain personal information of
+   the Residents of the Strata Corporation. This information is for Strata
+   Corporation purposes only as permitted or required by federal and provincial
+   privacy legislation. It is not to be used by the Strata Corporation or any
+   individuals with respect to information, including Council members, former
+   Council members, agents, employees, or contracts with the Strata Corporation
+   for any purposes whatsoever other than for contacting or the benefit of the
+   owners of the Strata Corporation.
+
+#### Cameras
+
+2. For the purposes of the Act and other enactments, the security of the
+   Residents and visitors of the Strata Corporation and for the protection of
+   common property and common assets, the Strata Corporation is authorized to
+   purchase, install, monitor, repair, replace, remove/move, alter and operate
+   the following security/monitoring systems within the Strata Corporation
+   pursuant to the following provisions:
+   - a. closed circuit television/video surveillance equipment (“CCTV”)
+     installed in the following areas, operating twenty-four (24) hours a day,
+     seven (7) days a week:
+     - i. Garbage/recycling disposal room;
+   - b. the Strata Corporation is authorized to add/subtract the number of CCTV
+     cameras in use within the Strata Corporation as the Council, in its
+     discretion, considers necessary to meet the objectives of safety, security
+     and management of the Strata Corporation and its occupants;
+   - c. the Strata Corporation has or will install signs in various locations
+     within the Strata Corporation warning that the area is monitored by CCTV
+     cameras;
+   - d. the CCTV recordings will be stored electronically for a period of up to
+     thirty (30) days from the date of recording before being overwritten, which
+     period may be extended for those files required for law enforcement and/or
+     bylaw enforcement purposes;
+   - e. the CCTV and recordings (collectively, the “Security System”) and/or
+     usage records (collectively, the “Records”) will be used only for the
+     purposes of law enforcement, the enforcement of the Bylaws and Rules which
+     relate to the safety, upkeep and security of the building and its
+     occupants, as set out in this Bylaw. Personal information of Residents or
+     visitors will only be disclosed or reviewed by the Council or the property
+     manager as follows:
+     - i. to respond to emergencies;
+     - ii. to ensure the protection of common property or common assets of the
+       Strata Corporation;
+     - iii. to ensure compliance with the Strata Corporation’s legal
+       obligations;
+     - iv. pursuant to a Court Order, warrant or equivalent authorization in
+       accordance with the terms of the authorizing document;
+     - v. as requested by a Resident who may request access to the Records which
+       contains images/information of the person making the request, provided
+       written permission of any other person(s) present in any recording is
+       obtained and provided within fourteen (14) days of the image/information
+       being recorded, in which case the recording will be retained for an
+       additional thirty (30) days in order to permit viewing, unless a longer
+       time period has been agreed to between the persons requesting the viewing
+       and the Council; and
+     - vi. as requested by any person or agency, without a court order and as
+       permitted by law, as determined by a majority vote of the Council, if the
+       disclosure is in the best interest of the Strata Corporation, including
+       but not limited to:
+       - i. an insurance company adjusting a claim;
+       - ii. a law enforcement agency; or
+       - iii. a Government agency;
+   - f. no Residents, visitors, or members of the public will be entitled to
+     view or receive a copy of the Records, unless a written request is made for
+     that person’s own personal information as recorded by the Security System.
+     The Strata Corporation reserves the right to charge $50 per hour payable in
+     advance, if charged by the Strata Corporation’s management firm, to any
+     person making a request for a review of the Records regardless of if the
+     review provides the information requested or not. The Strata Corporation is
+     not required to review or copy the Records if the person making the request
+     refuses to pay the costs as outlined above or does not have the written
+     consent of others;
+   - g. the Security System’s hardware and recording system will be secured and
+     located in the locked utility room, or strata management’s office (for
+     remote access systems) and the system will be password protected with the
+     Strata Corporation’s management firm (or delegate), Security service
+     contractor, and Council President (or delegate) being provided with
+     individual passwords for access, access to be terminated within ten (10)
+     days of a change of Council;
+   - h. access to or review of the Records shall be restricted to two (2)
+     persons: two (2) Council members or one (1) Council member and the strata
+     manager, both of which must be present during access/review of the Records;
+   - i. the Strata Manager shall be responsible to address all requests for the
+     Records, ensure that the Strata Corporation complies with the Personal
+     Information Protection Act (“PIPA”) and/or other privacy legislation and
+     prevent unauthorized access to the Security System and the Records;
+   - j. any information obtained via the Security System is for Strata
+     Corporation purposes only in accordance with the provisions of PIPA and
+     must not be used by the Strata Corporation or any individuals, including
+     Council members, former Council members, agents, employees, or contractors
+     of the Strata Corporation for any purposes whatsoever other than for the
+     benefit or betterment of the Strata Corporation or its owners, as set out
+     in this Bylaw; and
+   - k. in installing and/or maintaining the Security System described herein,
+     the Strata Corporation makes no representation or guarantees that any of
+     the systems will be fully operational at all times. The Strata Corporation
+     is not responsible or liable to any Resident, or visitor in any capacity
+     (including a failure to maintain, repair, replace, locate, or monitor any
+     of the systems, whether arising out of negligence or otherwise) for
+     personal security or personal property in area monitored by any of the
+     systems
+
 ## Footnotes
 
 [^1]:
     [BC Standard Bylaws](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/98043_18)
 
 [^2]: 1st admendment
+[^3]: 2nd admendment. Ratified at the 2025 AGM
