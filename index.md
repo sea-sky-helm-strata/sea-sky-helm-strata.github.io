@@ -11,7 +11,7 @@ Github:
   - Sea & Sky Helm is goverened by the BC strata
     [standard bylaws](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/98043_18).
     There have been 2 sets of admendments. Please refer to the strata docs in
-    powerstrata for the original documents.
+    [powerstrata](https://pms.powerstrata.com/) for the original documents.
 
 ### Important References
 
