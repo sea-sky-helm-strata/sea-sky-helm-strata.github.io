@@ -1020,5 +1020,5 @@ strata lots, whichever is shorter.
 [^1]:
     [BC Standard Bylaws](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/98043_18)
 
-[^2]: 1st admendment
-[^3]: 2nd admendment. Ratified at the 2025 AGM
+[^2]: 1st amendments
+[^3]: 2nd amendments. Ratified at the 2025 AGM
