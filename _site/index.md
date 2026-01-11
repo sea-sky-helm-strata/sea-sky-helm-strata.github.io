@@ -1,5 +1,5 @@
 Github:
-[project site](https://github.com/sea-sky-helm-strata/sea-sky-helm.github.io)
+[project site](https://github.com/sea-sky-helm-strata/sea-sky-helm-strata.github.io)
 
 ## Information
 
